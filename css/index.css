@@ -1,0 +1,28 @@
+*{
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+.nav-wrapper{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+ 
+}
+.nav-wrapper  .nav-r{
+    display: flex;
+    align-items: center;
+}
+.nav-r li {
+  line-height: 35px;
+  font-size: 20px;
+  color: #666; 
+  margin-left: 15px; 
+}
+.place-img{
+  display: block;
+  widows: 100%;
+}
+.floor-box{
+  margin-bottom: 20px;
+}
